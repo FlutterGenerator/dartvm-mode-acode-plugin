@@ -6,7 +6,7 @@
   "readme": "Readme.md",
   "icon": "dartvm-logo.png",
   "keywords": ["dart", "dartvm", "syntax highlighting", "acode", "plugin"],
-  "minVersionCode": 16,
+  "minVersionCode": 1,
   "price": 0,
   "license": "MIT",
   "contributors": [
