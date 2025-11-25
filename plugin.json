@@ -1,7 +1,7 @@
 {
   "id": "dartvm",
   "name": "DartVM",
-  "main": "DartVMMode.js",
+  "main": "main.js",
   "version": "1.0.1",
   "readme": "Readme.md",
   "icon": "dartvm-logo.png",
