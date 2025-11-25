@@ -2,11 +2,11 @@
   "id": "dartvm",
   "name": "DartVM",
   "main": "main.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "readme": "Readme.md",
   "icon": "dartvm-logo.png",
   "keywords": ["dart", "dartvm", "syntax highlighting", "acode", "plugin"],
-  "minVersionCode": 11,
+  "minVersionCode": 12,
   "price": 0,
   "license": "MIT",
   "contributors": [
